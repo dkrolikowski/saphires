@@ -29,7 +29,6 @@ import numpy as np
 from scipy.optimize import curve_fit
 from scipy import interpolate
 import matplotlib
-matplotlib.use('Qt5Agg')
 import matplotlib.pyplot as plt
 from astropy import constants as const
 from astropy.visualization import (MinMaxInterval, SqrtStretch,

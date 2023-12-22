@@ -38,7 +38,6 @@ from scipy.ndimage.filters import gaussian_filter
 from scipy.optimize import curve_fit
 
 import matplotlib
-matplotlib.use('Qt5Agg')
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_pdf import PdfPages
 
